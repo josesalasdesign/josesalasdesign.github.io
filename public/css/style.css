@@ -26,13 +26,3 @@ nav {
 	padding-top: 170px;
 }
 
-/*
-	Titles 
-*/
-
-.title hr {
-    display: inline-block;
-    width: 30%;
-    margin: 5px 10px;
-    border-top: 1px solid #e5e5e5;
-}
